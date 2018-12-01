@@ -1,4 +1,4 @@
-# mvsb - MIDI Video Sequencer of Benni
+# mvsb - MIDI Video Sequencer Bullshit
 
 mvsb is a video sequencer intended to enable the live playback
 of video tracks in synchronization with a hardware or software
